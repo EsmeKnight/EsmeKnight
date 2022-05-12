@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EsmeKnight
 - 👀 I’m interested in ... JavaScript + full stack web development
-- 🌱 I’m currently learning ... JavaScript, React, Angular
+- 🌱 I’m currently learning ... Java, React
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... esme.e.knight@gmail.com
 
